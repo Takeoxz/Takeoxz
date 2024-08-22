@@ -7,10 +7,9 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Gabriel! A passionate Software Engineering student from Brazil.
+  Hi 👋, I'm Gabriel! A passionate Software Development student from Brazil.
 
-  - 🌱 I’m currently studying Software Engineering
-
+  - 🌱 I’m currently studying Software Development
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
 
